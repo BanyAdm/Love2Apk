@@ -7,7 +7,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 # Requirements⚙️
 
 - java
-    - Windows `Windows Oline` on [Java site](https://www.java.com/en/download/manual.jsp)
+    - Windows `Windows Online` on [Java site](https://www.java.com/en/download/manual.jsp)
     - Linux `default-jre` in your package manager.
 
 # Instruction🛠
