@@ -20,7 +20,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 And Thats It!
 More Customization Well **Might be** in the Feature
-If You Really Want To Customize The Name,Icon,Etc.
-Then Use An Apk Editor In The Google Play.
+If You Really Want To Customize The **Name,Icon,Etc.**
+Then Use An Apk Editor In The **Google Play.**
 
 **Thänks!**❤
