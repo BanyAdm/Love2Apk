@@ -1,0 +1,9 @@
+#Ignores all built files
+game.love
+
+love-decoded/
+
+game.apk
+game-aligned.apk
+game-aligned-debugSigned.apk
+game-aligned-debugSigned.apk.idsig
