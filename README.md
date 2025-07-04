@@ -4,6 +4,12 @@ Its A New Tool To Turn Love2d Files (.love) To Android Files (.apk). ↕
 
 It Supports The Latest Version Of Löve2d (11.5)❤
 
+# Requirements⚙️
+
+- java
+    - Windows `Windows Oline` on [Java site](https://www.java.com/en/download/manual.jsp)
+    - Linux `default-jre` in your package manager.
+
 # Instruction🛠
 
 **1.** Select Every File Inside Your Game Folder
@@ -14,9 +20,9 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
-**5.** Run The Batch File (CreateApk.bat)
+**5.** Run The Batch File `CreateApk.bat` on windows, or the Bash file on linux `CreateApk.sh`.
 
-**6.** When The Batch File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
+**6.** When The Batch/Bash File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
 
 And Thats It!
 More Customization Well **Might be** in the Feature
