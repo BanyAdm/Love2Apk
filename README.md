@@ -1,8 +1,8 @@
-# Love2Apk❤➡🤖
+# Löve2Apk❤➡🤖
 
 Its A New Tool To Turn Love2d Files (.love) To Android Files (.apk). ↕
 
-It Supports The Latest Version Of Love2d (11.5)❤
+It Supports The Latest Version Of Löve2d (11.5)❤
 
 # Instruction🛠
 
@@ -23,4 +23,4 @@ More Customization Well **Might be** in the Feature
 If You Really Want To Customize The Name,Icon,Etc.
 Then Use An Apk Editor In The Google Play.
 
-**Thanks!**
+**Thänks!**❤
