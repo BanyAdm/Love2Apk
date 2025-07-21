@@ -1,4 +1,5 @@
 java -jar "./Tools/apktool_2.11.1.jar" d -s -o love-decoded "./Tools/love-11.5-android-embed.apk"
+cp AndroidManifest.xml love-decoded
 mv game.love love-decoded/assets
 cd love-decoded
 cd assets
