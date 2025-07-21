@@ -20,13 +20,13 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
+**4.1.** You can now optionally modify the file `AndroidManifest.xml` for advanced tweaks.
+
 **5.** Run The Batch File `CreateApk.bat` on windows, or the Bash file on linux `CreateApk.sh`.
 
 **6.** When The Batch/Bash File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
 
 And Thats It!
-More Customization Well **Might be** in the Feature
-If You Really Want To Customize The **Name,Icon,Etc.**
-Then Use An Apk Editor In The **Google Play.**
+Customizations Are Here! You Can Edit The Apk's Title, Package name, etc
 
 **Thänks!** ❤
