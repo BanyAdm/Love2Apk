@@ -27,6 +27,6 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 **6.** When The Batch/Bash File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
 
 And Thats It!
-Customizations Are Here! You Can Edit The Apk's Title, Package name, etc
+Customizations Are Here! You Can Edit The Apk's Title,Package name,etc
 
 **Thänks!** ❤
