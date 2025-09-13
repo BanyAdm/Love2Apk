@@ -4,6 +4,12 @@ Its A New Tool To Turn Love2d Files (.love) To Android Files (.apk). ↕
 
 It Supports The Latest Version Of Löve2d (11.5)❤
 
+# Requirements⚙️
+
+- java
+    - Windows `Windows Online` on [Java site](https://www.java.com/en/download/manual.jsp)
+
+
 # Instruction🛠
 
 **1.** Select Every File Inside Your Game Folder
