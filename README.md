@@ -8,7 +8,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 - java
     - Windows `Windows Online` on [Java site](https://www.java.com/en/download/manual.jsp)
-
+    - Linux default-jre in your package manager.
 
 # Instruction🛠
 
@@ -20,11 +20,11 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
-**5.** Run The Batch File (CreateApk.bat)
+**5.** Run The Batch File (CreateApk.bat) if your on windows, if your on linux the run (CreateApk.sh(
 
 **6.** When The Batch File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
 
 And Thats It!
-Sadly, you cant customize it yet, but you can use an apk editor in your phone
+Sadly, you cant customize it yet, but you can use an apk editor in your phone or android tools
 
 **Thänks!** ❤
