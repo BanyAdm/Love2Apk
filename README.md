@@ -20,7 +20,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
-**5.** Run The Batch File (CreateApk.bat) if your on windows, if your on linux the run (CreateApk.sh(
+**5.** Run The Batch File (CreateApk.bat) if your on windows, if your on linux the run (CreateApk.sh)
 
 **6.** When The Batch File Finishes You Should See A File Called **"game-aligned-debugSigned.apk"** Thats Your Apk File
 
