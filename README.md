@@ -30,7 +30,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 **6.** Once the build Finishes, You Should See A File Called **"(your apk name)-aligned-debugSigned.apk"** Thats Your Apk File
 
 # Info
-The Playstore may flag this as an "unknown" app, and thats because your apk package name isnt recognized in the Playstore
+The Playstore may flag your apk as an "unknown" app, and thats because your apk package name isnt recognized in the Playstore
 Thats completely fine, and that doesnt mean that this software is a malware of some sort
 
 **Thänks!** ❤
