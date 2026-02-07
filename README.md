@@ -33,7 +33,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 The Playstore may flag your apk as an "unknown" app, and thats because your apk package name isnt recognized in the Playstore
 Thats completely fine, and that doesnt mean that this software is a malware of some sort
 
-also the game might not be rotated to portrait because love2d automaticly makes the game landscape
+also the game might not be rotated to portrait because love2d automatically makes the game landscape
 to fix this you have to add this logic
 
 ```lua
