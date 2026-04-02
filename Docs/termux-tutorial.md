@@ -1,5 +1,8 @@
 ![termux](/Images/termux.png)
 
+# BEFORE READING
+- Read [README](/README.md) First.
+
 **1.** go to the love2apk directory
 
 **2.** turn the `termux-builder.sh` into an executable (`chmod +x termux-builder.sh`)
