@@ -1,4 +1,4 @@
-![linux](/Docs/sh.png)
+![linux](/Images/sh.png)
 
 **1.** go to your file explorer, open love2apk and right click and click "open in terminal"
 
