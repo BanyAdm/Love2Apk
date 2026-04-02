@@ -26,7 +26,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **5.** Open The builder, it depends on your operating system
 
-[Windows Tutorial](/docs/windows-tutorial)
+[Windows Tutorial](/Docs/windows-tutorial.md)
 
 **6.** Once the build Finishes, You Should See A File Called **"(your apk name)-aligned-debugSigned.apk"** Thats Your Apk File
 
