@@ -15,6 +15,9 @@ It Supports The Latest Version Of Löve2d (11.5)❤
     - Windows `Windows Online` on [Java site](https://www.java.com/en/download/manual.jsp)
     - Linux `default-jre` in your package manager.
     - Termux, Run `pkg install openjdk-17`
+      
+- Apktool
+  - Termux, Run `pkg install apktool`
 
 # Instruction🛠
 
@@ -29,6 +32,8 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 **5.** Open The builder, follow the tutorial that depends on your operating system
 
 [Windows Tutorial](/Docs/windows-tutorial.md)
+[Linux Tutorial](/Docs/linux-tutorial.md)
+[Termux Tutorial](/Docs/termux-tutorial.md)
 
 **6.** Once the build Finishes, You Should See A File Called **"(your apk name)-aligned-debugSigned.apk"** Thats Your Apk File
 
