@@ -7,12 +7,14 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 # Current Platforms
 - Windows
 - Linux
+- Termux
 
 # Requirements⚙️
 
 - java
     - Windows `Windows Online` on [Java site](https://www.java.com/en/download/manual.jsp)
     - Linux `default-jre` in your package manager.
+    - Termux, Run `pkg install openjdk-17`
 
 # Instruction🛠
 
@@ -24,7 +26,7 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
-**5.** Open The builder, it depends on your operating system
+**5.** Open The builder, follow the tutorial that depends on your operating system
 
 [Windows Tutorial](/Docs/windows-tutorial.md)
 
