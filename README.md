@@ -24,8 +24,9 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 
 **4.** Put The **game.love** File Inside **Love2Apk** Folder
 
-**5.** Open the **builder.exe**, or if your using linux then open the terminal in the same directory and run
-`./builder.sh`, then go through the options.
+**5.** Open The builder, it depends on your operating system
+
+[Windows Tutorial](/docs/windows-tutorial)
 
 **6.** Once the build Finishes, You Should See A File Called **"(your apk name)-aligned-debugSigned.apk"** Thats Your Apk File
 
