@@ -35,6 +35,17 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 [Linux Tutorial](/Docs/linux-tutorial.md)
 [Termux Tutorial](/Docs/termux-tutorial.md)
 
+APK Name: the title/name of your game
+
+Package Name: basically an id, every app has its own Package Name, you gotta use a format like this
+`com.NAME/COMPANY.APPNAME`
+
+App Icon: just drag a `PNG` icon into the text box or put the location of it
+
+LOVE File: you gotta zip your game into a `.love` file and drag it there
+
+Orientation: portrait or landscape
+
 **6.** Once the build Finishes, You Should See A File Called **"(your apk name)-aligned-debugSigned.apk"** Thats Your Apk File
 
 # Info
