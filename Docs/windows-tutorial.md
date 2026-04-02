@@ -1,7 +1,7 @@
 ![The exe](/Images/exe.PNG)
 
 # BEFORE READING
-Read [README](/README.md) First.
+- Read [README](/README.md) First.
 
 APK Name: the title/name of your game
 
