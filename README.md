@@ -1,3 +1,4 @@
+![love2apk_icon](/defaults/default_icon.png)
 # Löve2Apk❤➡🤖
 
 Its A New Tool To Turn Love2d Files (.love) To Android Files (.apk). ↕
