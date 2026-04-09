@@ -38,7 +38,8 @@ It Supports The Latest Version Of Löve2d (11.5)❤
 APK Name: the title/name of your game
 
 Package Name: basically an id, every app has its own Package Name, you gotta use a format like this
-`com.NAME/COMPANY.APPNAME`
+
+`com.COMPANY.APPNAME`
 
 App Icon: just drag a `PNG` icon into the text box or put the location of it
 
