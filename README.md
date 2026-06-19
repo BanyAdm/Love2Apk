@@ -1,4 +1,8 @@
 ![love2apk_icon](/defaults/default_icon.png)
+
+![GitHub stars](https://img.shields.io/github/stars/banyadm/love2apk?style=for-the-badge) 
+![GitHub License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
 # Löve2Apk❤➡🤖
 
 Its A New Tool To Turn Love2d Files (.love) To Android Files (.apk). ↕
