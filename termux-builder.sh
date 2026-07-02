@@ -5,7 +5,7 @@ trap 'rm -rf "$DECODED_DIR" "$APK_OUT"' EXIT
 SCRIPT_DIR=$(pwd)
 DECODED_DIR="$SCRIPT_DIR/love-decoded"
 ASSETS_DIR="$DECODED_DIR/assets"
-APKTOOL_JAR="$SCRIPT_DIR/Tools/apktool_2.11.1.jar"
+APKTOOL_JAR="$SCRIPT_DIR/Tools/apktool_termux.jar"
 EMBED_APK="$SCRIPT_DIR/Tools/love-11.5-android-embed.apk"
 UBER_SIGNER="$SCRIPT_DIR/Tools/uber-apk-signer-1.3.0.jar"
 DEFAULT_ICON="$SCRIPT_DIR/defaults/default_icon.png"
@@ -54,8 +54,7 @@ progress 0 "Starting build..."
 
 # --- Decode APK ---
 progress 10 "Decoding APK..."
-apktool d -s -o "$DECODED_DIR" "$EMBED_APK"
-
+java -jar "$APKTOOL_JAR" d -s -o "$DECODED_DIR" "$EMBED_APK"
 # --- Remove dexopt folder ---
 progress 30 "Removing dexopt folder..."
 rm -rf "$ASSETS_DIR/dexopt"
@@ -114,7 +113,7 @@ EOF
 
 # --- Build APK ---
 progress 70 "Building APK..."
-apktool b -o "$APK_OUT" "$DECODED_DIR"
+java -jar "$APKTOOL_JAR" b --use-aapt2 -o "$APK_OUT" "$DECODED_DIR"
 
 # --- Sign APK ---
 progress 90 "Signing APK..."

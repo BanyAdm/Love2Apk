@@ -21,8 +21,6 @@ It Supports The Latest Version Of Löve2d (11.5)❤
     - Linux `default-jre` in your package manager.
     - Termux, Run `pkg install openjdk-17`
       
-- Apktool
-  - Termux, Run `pkg install apktool`
 
 # Instruction🛠
 
