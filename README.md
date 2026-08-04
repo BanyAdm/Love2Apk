@@ -6,13 +6,13 @@
 
 ### -- NOTICE ⚠️ --
 
+>As of Google’s new September update, changes to the APK installation and building process may affect how this repository works.
 
->As of Google's new September update, it changes how apk installations, and building work
-the repository would not possibly work due to the signing step needing a private key which you can only get by verifying your government id and paying a 25$ fee
+>The repository may no longer work as intended due to the new signing requirements. The signing process requires a private key that can only be obtained after verifying your government ID and paying a $25 fee.
 
-so enjoy this tool while it lasts, if this updates rolls out completely, there is a high chance this repository will be archived or just not work
+>So, enjoy this tool while it lasts. If the update is fully rolled out, there is a high chance that this repository will either be archived or stop working.
 
-thank you guys for using this tool
+Thank you all for using this tool and supporting the project. ❤️
 
 
 # Löve2Apk❤➡🤖
