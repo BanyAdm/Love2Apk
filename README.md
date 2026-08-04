@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ---
 
-### # NOTICE ⚠️ #
+### -- NOTICE ⚠️ --
 
 
 >As of Google's new September update, it changes how apk installations, and building work
