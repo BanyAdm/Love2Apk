@@ -2,16 +2,18 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/banyadm/love2apk?style=for-the-badge) 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+---
 
 ### NOTICE ⚠️
----
-As of Google's new September update, it changes how apk installations, and building work
+
+
+>>>As of Google's new September update, it changes how apk installations, and building work
 the repository would not possibly work due to the signing step needing a private key which you can only get by verifying your government id and paying a 25$ fee
 
 so enjoy this tool while it lasts, if this updates rolls out completely, there is a high chance this repository will be archived or just not work
 
 thank you guys for using this tool
----
+
 
 # Löve2Apk❤➡🤖
 
